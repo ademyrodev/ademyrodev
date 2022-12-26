@@ -2,4 +2,4 @@
 - 👀 I’m interested in computer science, even if I am not very experienced in that domain.
 - 🌱 I’m currently learning computer science, data structures, and algorithms.
 - 🪶 I write my code in C, Python and sometimes Java.
-- 📫 You can reach me anywhere and anytime, but do not expect my code to be the best.
+- 📫 You can reach me anywhere at anytime, but do not expect my code to be the best.
