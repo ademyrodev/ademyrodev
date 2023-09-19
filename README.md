@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ademyrodev
-- 👀 I’m interested in computer science, even if I am not very experienced in that domain.
-- 🌱 I’m currently learning computer science, data structures, and algorithms.
-- 🪶 I write my code in C, Python and sometimes Java.
-- 📫 You can reach me anywhere at anytime, but do not expect my code to be the best.
+- 👀 I’m interested in computer science.  Data structures are cool!
+- 🌱 Might as well learn Rust.
+- 🪶 I often write my code in C, or use Python for smaller or higher-level projects.  
